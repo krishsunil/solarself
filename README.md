@@ -1,7 +1,7 @@
 # SolarSelf: Circadian Intelligence Dashboard
 
 **Course:** 22CSE71 - Full Stack Technologies | **Assessment:** AAT-1 (Portfolio-Driven)
-**Student:** [Your Name] | **USN:** [Your USN] | **Semester/Section:** [Semester/Section] | **College:** [College Name]
+**Student:** Krish Sunil | **USN:** 1NH23CS117 | **Semester/Section:** 7/C | **College:** New Horizon College of Engineering
 
 ## 1. Objective
 
@@ -124,4 +124,4 @@ Screenshots are stored in `docs/screenshots/` and are included in the hard copy 
 
 ## 10. Author
 
-[Your Name], B.E. Computer Science and Engineering, [College Name].
+Krish Sunil, B.E. Computer Science and Engineering, New Horizon College of Engineering.
