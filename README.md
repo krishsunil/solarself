@@ -1,6 +1,6 @@
 # SolarSelf: Circadian Intelligence Dashboard
 
-**Course:** 22CSE71 - Full Stack Technologies | **Assessment:** AAT-1
+**Course:** 22CSE71 - Full Stack Technologies | **Assessment:** AAT-1 (Portfolio Driven)
 **Student:** Krish Sunil | **USN:** 1NH23CS117 | **Semester/Section:** 7/C | **College:** New Horizon College of Engineering
 
 ## 1. Objective
